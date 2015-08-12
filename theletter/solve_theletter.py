@@ -24,20 +24,20 @@ with open(filename, "r") as textfile:
     else:
       word_count[lower_word] = 1
 
-  # iterate over ditionary to collect number of unique words
-  num_unique = 0
+  # iterate over ditionary to count words in each category
+  num_lonely = 0
   num_duplicates = 0
   for key, val in word_count.iteritems():
     if not (key == ''):
       if val == 1:
-        num_unique += 1
+        num_lonely += 1
       else:
         num_duplicates +=1
 
-  # print the number of unique and duplicate words for debugging
-  print "num unique: " + str(num_unique)
+  # print the number of lonely and duplicate words for debugging
+  print "num lonely: " + str(num_lonely)
   print "num duplicates: " + str(num_duplicates)
   print "total: " + str(len(words))
 
   # print the solution
-  print "solution: " + str(num_unique * num_duplicates)
+  print "solution: " + str(num_lonely * num_duplicates)

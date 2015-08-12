@@ -18,7 +18,7 @@ I drew inspiration for this from a cartoon I watched when I was a kid. There was
 
 ## The Letter
 
-I wrote a ton of letters this summer to Nick. If I had been thinking ahead, I would have put a clue in plain text in a letter in early July, but alas, I was last minute with this as per usual. I wanted to incorporate those letters into the hunt somehow though. Counting unique words in those letters is how I decided to do that.
+I wrote a ton of letters this summer to Nick. If I had been thinking ahead, I would have put a clue in plain text in a letter in early July, but alas, I was last minute with this as per usual. I wanted to incorporate those letters into the hunt somehow though. Counting words in those letters is how I decided to do that.
 
 ## Song Lyrics
 
