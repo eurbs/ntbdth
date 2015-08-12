@@ -19,3 +19,33 @@ I drew inspiration for this from a cartoon I watched when I was a kid. There was
 ## The Letter
 
 I wrote a ton of letters this summer to Nick. If I had been thinking ahead, I would have put a clue in plain text in a letter in early July, but alas, I was last minute with this as per usual. I wanted to incorporate those letters into the hunt somehow though. Counting unique words in those letters is how I decided to do that.
+
+## Song Lyrics
+
+The only clue is a three column CSV.
+
+1. Single digit
+2. Integer from 0-59
+3. A string
+
+What might this be? Well, concatenated properly with [youtube](http://youtube.com/), you wind up with one song lyric per entry.
+
+## Loopback 1
+
+## Folder Maze
+
+## Face the Music
+
+## Eat Your Way to a Solution
+
+## Street Signs
+
+## Braille Art
+
+## Commandline Adventure
+
+## Loopback 2
+
+## House Photo Clues
+
+## QR Code
