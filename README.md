@@ -23,12 +23,11 @@ I wrote a ton of letters this summer to Nick. If I had been thinking ahead, I wo
 ## Song Lyrics
 
 The only clue is a three column CSV.
+1. string
+2. single digit
+3. integer from 0-59
 
-1. Single digit
-2. Integer from 0-59
-3. A string
-
-What might this be? Well, concatenated properly with [youtube](http://youtube.com/), you wind up with one song lyric per entry.
+What might this be? Well, concatenated properly with [youtube](https://youtu.be/), you wind up with one song lyric per entry. Then unscramble the first letters to make a word. It was fun in 2nd grade and it's still fun now.
 
 ## Loopback 1
 
