@@ -13,6 +13,7 @@ with open(filename, "r") as textfile:
 
   # split into list of words
   words = re.split('\W', stripped_result)
+  words = filter(None, words)
 
   # populate dictionary counting number of occurrences of each word 
   word_count = {}
@@ -27,14 +28,16 @@ with open(filename, "r") as textfile:
   num_unique = 0
   num_duplicates = 0
   for key, val in word_count.iteritems():
-    if val == 1:
-      num_unique += 1
-    else:
-      num_duplicates +=1
+    if not (key == ''):
+      if val == 1:
+        num_unique += 1
+      else:
+        num_duplicates +=1
 
   # print the number of unique and duplicate words for debugging
   print "num unique: " + str(num_unique)
   print "num duplicates: " + str(num_duplicates)
+  print "total: " + str(len(words))
 
   # print the solution
   print "solution: " + str(num_unique * num_duplicates)
