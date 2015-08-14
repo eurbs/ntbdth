@@ -2,8 +2,6 @@ import os
 import re
 import sys
 
-from contextlib import contextmanager
-
 # according to stackoverflow, this is available on most unix systems
 # any list of words will do though
 WORDPATH = os.path.join("/", "usr", "share", "dict", "words")

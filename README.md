@@ -31,6 +31,8 @@ What might this be? Well, concatenated properly with [youtube](https://youtu.be/
 
 ## Loopback 1
 
+This was an okay clue. I couldn't really come up with two sentences that made sense, so this one was a matter of not overthinking it. The answer was given in plain text.
+
 ## Folder Maze
 
 ## Face the Music
@@ -48,3 +50,11 @@ What might this be? Well, concatenated properly with [youtube](https://youtu.be/
 ## House Photo Clues
 
 ## QR Code
+
+# Blog
+
+I'm sure a github readme is NOT where this belongs, but that's just fine. Perhaps I'll actually get a blog or something at some point, but for now this will do.
+
+There was a hiccup early on. Clues are not to be thought of as unimportant. I almost provided a test reference for *The Letter* quest, but I was just too tired to put it together. It turns out I had made some mistakes in my code too. One can never test too thoroughly. Even though 'going into production' in this case is super low risk because it's supposed to be fun, it always feels pretty crappy when it doesn't work as expected.
+
+I should have put logging in earlier. I thought it would be super difficult but turns out it's really easy. Now all I have to do is `$ heroku logs | grep ATTEMPT` and I have all of the information I need. Lesson learned: don't knock it til you try it.
