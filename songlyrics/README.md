@@ -1,6 +1,6 @@
 # Song Lyrics
 
-## Solution
+#### Solution
 
 - remedy: [Zedd - Clarity (Official Video) ft. Foxes](https://youtu.be/IxxstCcJlsc?t=1m1s)
 - every: [Greyson Chance - Meridians (Official Live Cut)](https://youtu.be/xn1Qi9YsXSs?t=52s)
@@ -12,6 +12,10 @@
 
 **FRIENDS**
 
-## What Does the Clue Mean?
+#### What Does the Clue Mean?
 
 Nothing at all. Creating this clue was particularly difficult because sometimes the word would straddle the second mark. "Friends" at least plays into the storyline because the next section introduces George's friends.
+
+#### Challenges
+
+This clue proved to be quite the challenge, as I made it way too complicated. This could have been broken down into many phases with hints suggesting that the participant was on the right track. Also, my brother suggested that I take advantage of the file name, as that was a missed opportunity. Lesson learned: Content is important. There's a reason there are people who know copy inside and out.
