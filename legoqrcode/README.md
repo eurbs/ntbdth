@@ -8,3 +8,9 @@ Sure, you're supposed to build with legos, but it's pretty cool to lay them out 
 2. Use an online lego builder
 3. Write a program that takes in the input and has the ids mapped to images of the legos
 4. Color in a perfect grid excel spreadsheet
+
+#### Extensions
+
+Take any pixelated png and map it to lego pieces.
+
+At the very least, do a qr code to lego process so getting the clue wouldn't have to be done by hand.
