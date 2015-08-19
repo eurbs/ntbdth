@@ -13,7 +13,8 @@ def clue_to_image(clue, outfile):
   :param string outfile: Path to output file.
   """
 
-  qr = Image.new("RGBA", (1000, 1000), (255, 255, 255, 0))
+  square_side = len(clue) * 40
+  qr = Image.new("RGBA", (square_side, square_side), (255, 255, 255, 0))
   qrctx = ImageDraw.Draw(qr)
 
   y = 0
