@@ -65,13 +65,15 @@ Extensions of this would be to make a mobile app when fed a .kml file or individ
 
 ASCII Characters -> SimBraille
 
-#### Commandline Adventure
+#### Lego QR Code
+
+Lego IDs in a 2D array.
 
 #### Loopback 2
 
 #### House Photo Clues
 
-#### QR Code
+#### Commandline Adventure
 
 # Blog
 
