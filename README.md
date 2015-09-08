@@ -1,6 +1,6 @@
 # ntbdth
 
-This is a birthday gift I crafted for Nick this summer. It's a two week treasure hunt designed to have one clue per day. Half of them are virtual and half are in real life. I worked with his family and friends to bring this to life. I also had a great deal of help from some friends I made while interning at Uber, so I cannot thank everyone who helped pull this off enough.
+This is a birthday gift I crafted for [Nick](https://github.com/nconfrey/) this summer. It's a two week treasure hunt designed to have one clue per day. Half of them are virtual and half are in real life. I worked with his family and friends to bring this to life. I also had a great deal of help from some friends I made while interning at Uber, so I cannot thank everyone who helped pull this off enough.
 
 I mean, you simply can't compete with friends who are willing to kick off the hunt by putting the very first clue in a bottle and slipping it into the arms of the participant midway through the night.
 
@@ -14,7 +14,7 @@ In middle school, my friend Jackie introduced me to a secret language she and a 
 
 I lent Nick my GBA SP for the summer. Pokemon LeafGreen. The clue is literally in the game cartriage rather than in the virtual realm of the game. 
 
-I drew inspiration for this from a cartoon I watched when I was a kid. There was some sort of secret recipe and it was hidden IN a computer. Physically. Shame I can't remember the show.
+I drew inspiration for this from iCarly. No shame in watching this even though I was way too old for it at the time it was released. Spencer and her favorite pie place was closing down and the recipe was hidden inside of the grandfather's computer. Physically. Shame I can't remember the show.
 
 #### The Letter
 
@@ -71,9 +71,11 @@ Lego IDs in a 2D array.
 
 #### Loopback 2
 
+Remember *Loopback 1*? Well, the hint to this one was a list of Ceasar Cypher Shift Amounts. Each of the words from the first loopback shifted into another english word. These words together formed an english sentence that at least made a little bit more sense than the group from Loopback 1.
+
 #### House Photo Clues
 
-#### Commandline Adventure
+This one was created entirely by Nick's dad. One of my favorite quests of the entire hunt, this was composed of a collection of beautiful pictures of locations around their home. The photos obscured the perception of what the items were, making the search for those clues quite difficult. At each location, there was a letter for the final phrase that would unlock the final clue.
 
 # Blog
 
@@ -82,5 +84,3 @@ I'm sure a github readme is NOT where this belongs, but that's just fine. Perhap
 There was a hiccup early on. Clues are not to be thought of as unimportant. I almost provided a test reference for *The Letter* quest, but I was just too tired to put it together. It turns out I had made some mistakes in my code too. One can never test too thoroughly. Even though 'going into production' in this case is super low risk because it's supposed to be fun, it always feels pretty crappy when it doesn't work as expected.
 
 I should have put logging in earlier. I thought it would be super difficult but turns out it's really easy. Now all I have to do is `$ heroku logs | grep ATTEMPT` and I have all of the information I need. Lesson learned: don't knock it til you try it.
-
-
